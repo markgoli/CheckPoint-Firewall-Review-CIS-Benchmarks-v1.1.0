@@ -1021,5 +1021,5 @@ echo "NOTE: Several checks (3.x firewall rules, SmartConsole settings) require"
 echo "      manual verification in SmartConsole as they cannot be fully derived"
 echo "      from the Gaia OS 'show configuration' output alone."
 
-rm -f "$CSV_FILE"
-rm -f "$LOG_FILE"
+# rm -f "$CSV_FILE"
+# rm -f "$LOG_FILE"
