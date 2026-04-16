@@ -1,4 +1,4 @@
-# 🔍 Check Point Firewall CIS Benchmark (v1.1.0) Audit Script
+# Check Point Firewall CIS Benchmark (v1.1.0) Audit Script
 
 This project provides an automated audit tool for reviewing Check Point
 Firewall configurations against the **Center for Internet Security (CIS)
