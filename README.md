@@ -10,7 +10,7 @@ that highlights compliance status and potential security gaps.
 
 ------------------------------------------------------------------------
 
-## 🚀 Features
+## Features
 
 -   Automated CIS Benchmark compliance checks (v1.1.0)
 -   Supports parsing various types of configuration files (`.txt`, `.conf`)
@@ -20,7 +20,7 @@ that highlights compliance status and potential security gaps.
 
 ------------------------------------------------------------------------
 
-## 📂 Requirements
+## Requirements
 
 -   Linux/Unix-based system
 -   Bash shell (v4+ recommended)
@@ -29,7 +29,7 @@ that highlights compliance status and potential security gaps.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Usage
+## Usage
 
 ### 1. Make the script executable
 
@@ -51,7 +51,7 @@ You can also use other supported formats:
 
 ------------------------------------------------------------------------
 
-## 📥 Input
+## Input
 
 The script expects a configuration file exported from a Check Point
 Firewall. Configuration file formats can be:
@@ -64,7 +64,7 @@ data for accurate analysis.
 
 ------------------------------------------------------------------------
 
-## 📤 Output
+## Output
 
 The script generates a compliance html report that:
 
@@ -74,7 +74,7 @@ The script generates a compliance html report that:
 
 ------------------------------------------------------------------------
 
-## 🛡️ CIS Benchmark Coverage
+## CIS Benchmark Coverage
 
 This tool is aligned with:
 
@@ -89,7 +89,7 @@ Coverage may include (but is not limited to):
 
 ------------------------------------------------------------------------
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This script is intended for **audit and assessment purposes only**.
 
@@ -101,4 +101,4 @@ This script is intended for **audit and assessment purposes only**.
 
 ## 👨‍💻 Author
 
-Goli Mark Wasswa
+`Goli Mark Wasswa`
